@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋 I'm Ameen
+
+I am a web designer and developer using front-end, back-end, and CMS technologies. 
 
 <!--
 **ameen-ulhaq/ameen-ulhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
