@@ -1,6 +1,6 @@
 # Hi, I'm Ameen Ul Haq 👋
 
-## Senior Web Developer | Technical Lead | AI-Assisted Development
+### Senior Web Developer | Technical Lead | AI-Assisted Development
 
 I build modern websites, e-commerce experiences, and custom web applications that solve real business problems.
 
