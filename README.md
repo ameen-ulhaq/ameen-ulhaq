@@ -1,37 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ameen</h1>
-<h3 align="center">Working as a full time freelance web designer and developer using front-end, back-end, and CMS technologies.</h3>
+# Hi, I'm Ameen Ul Haq 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameen-ulhaq&label=Profile%20views&color=0e75b6&style=flat" alt="ameen-ulhaq" /> </p>
+### Senior Web Developer | Technical Lead | AI-Assisted Development
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameen-ulhaq" alt="ameen-ulhaq" /></a> </p>
+I build modern websites, e-commerce experiences, and custom web applications that solve real business problems.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+With 6+ years of experience in web development, I work across **WordPress, PHP, WooCommerce, Shopify, JavaScript, Laravel, Webflow, and Framer**. My work spans custom functionality, website development, e-commerce solutions, API integrations, interactive experiences, and technical problem-solving.
 
-- 🔭 I’m currently working on **Delivery Management**
+I also use AI-powered development tools to accelerate implementation, explore solutions, build applications, and improve existing codebases. I can work with AI-generated and vibe-coded projects, turning prototypes into more reliable, maintainable, and production-ready applications.
 
-- 🌱 I’m currently learning **React, Vue**
+## What I Do
 
-- 🤝 I’m looking for help with **PHP, JS, Online Earning, Freelance**
+* 🌐 **Web Development:** Custom websites, responsive interfaces, and web applications
+* 🛒 **E-commerce:** WooCommerce, Shopify, store customization, and integrations
+* ⚙️ **Custom Development:** PHP, Laravel, JavaScript, APIs, and WordPress functionality
+* 🎨 **Visual Development:** Elementor, Beaver Builder, Webflow, and Framer
+* 🤖 **AI-Assisted Development:** Building with AI, improving AI-generated code, debugging, refactoring, and extending existing applications
+* 👨‍💻 **Technical Leadership:** Technical planning, problem-solving, code implementation, and supporting development teams
 
-- 👨‍💻 All of my projects are available at [ameenulhaq.com](ameenulhaq.com)
+## Tech Stack
 
-- 📝 I regularly write articles on [ameenulhaq.com/blog](ameenulhaq.com/blog)
+**Languages & Backend**
 
-- 💬 Ask me about **PHP, JS and anything**
+* PHP, JavaScript, HTML5, CSS3
+* MySQL
+* Laravel
+* jQuery
 
-- 📫 How to reach me **dev.ameenulhaq@gmail.com**
+**CMS & E-commerce**
 
-- 📄 Know about my experiences [https://bit.ly/ameenresume](https://bit.ly/ameenresume)
+* WordPress
+* WooCommerce
+* Shopify
+* Elementor
+* Beaver Builder
+* ACF and Custom Post Types
+* WordPress theme and plugin customization
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Visual Development & Frontend**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+* Webflow
+* Framer
+* GSAP
+* Responsive and interactive web experiences
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameen-ulhaq&show_icons=true&locale=en&layout=compact" alt="ameen-ulhaq" /></p>
+**AI-Assisted Development**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameen-ulhaq&show_icons=true&locale=en" alt="ameen-ulhaq" /></p>
+* Claude and Claude Code
+* Cursor
+* ChatGPT
+* Google Gemini
+* GitHub Copilot
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-ulhaq&" alt="ameen-ulhaq" /></p>
+I use AI tools as part of my development workflow for planning, implementation, debugging, refactoring, understanding unfamiliar codebases, and accelerating development. The tools I use can vary by project.
+
+## What I'm Interested in Building
+
+* Business websites and digital experiences
+* E-commerce platforms and custom store functionality
+* Web applications and SaaS products
+* API integrations and connected business systems
+* AI-assisted applications and workflow improvements
+* Practical developer tools and reusable solutions
+
+## Let's Connect
+
+* 🌐 **Portfolio:** [ameenulhaq.com](https://ameenulhaq.com/)
+* 💼 **LinkedIn:** [Ameen Ul Haq](https://www.linkedin.com/in/ameenulhaq-/)
+* 💻 **GitHub:** [ameen-ul-haq](https://github.com/ameen-ul-haq)
+* 🤝 **Upwork:** [View my profile](https://www.upwork.com/freelancers/~017f537f9771ac24f0)
+
+---
+
+*Building better digital experiences through development, thoughtful problem-solving, and AI-assisted workflows.*
