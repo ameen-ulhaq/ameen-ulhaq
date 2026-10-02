@@ -1,6 +1,6 @@
 # Senior Web Developer | Technical Lead | AI-Assisted Development
 
-# Hi, I'm Ameen Ul Haq 👋
+## Hi, I'm Ameen Ul Haq 👋
 
 ### Senior Web Developer | Technical Lead | AI-Assisted Development
 
