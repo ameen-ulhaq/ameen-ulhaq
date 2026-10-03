@@ -4,9 +4,9 @@
 
 I build modern websites, e-commerce experiences, and custom web applications that solve real business problems.
 
-With 6+ years of experience in web development, I work across **WordPress, PHP, WooCommerce, Shopify, JavaScript, Laravel, Webflow, and Framer**. My work spans custom functionality, website development, e-commerce solutions, API integrations, interactive experiences, and technical problem-solving.
+With **7+ years of experience in web development**, I work across **WordPress, PHP, WooCommerce, Shopify, JavaScript, Laravel, Webflow, and Framer**. My work spans custom functionality, website development, e-commerce solutions, API integrations, interactive experiences, and technical problem-solving.
 
-I also use AI-powered development tools to accelerate implementation, explore solutions, build applications, and improve existing codebases. I can work with AI-generated and vibe-coded projects, turning prototypes into more reliable, maintainable, and production-ready applications.
+I use AI-powered development tools to accelerate implementation, build applications, improve existing codebases, and solve technical challenges. I'm comfortable working with AI-generated and vibe-coded projects, turning prototypes into more reliable, maintainable, and production-ready applications.
 
 ## What I Do
 
@@ -15,7 +15,7 @@ I also use AI-powered development tools to accelerate implementation, explore so
 * ⚙️ **Custom Development:** PHP, Laravel, JavaScript, APIs, and WordPress functionality
 * 🎨 **Visual Development:** Elementor, Beaver Builder, Webflow, and Framer
 * 🤖 **AI-Assisted Development:** Building with AI, improving AI-generated code, debugging, refactoring, and extending existing applications
-* 👨‍💻 **Technical Leadership:** Technical planning, problem-solving, code implementation, and supporting development teams
+* 👨‍💻 **Technical Leadership:** Technical planning, problem-solving, hands-on development, and supporting development teams
 
 ## Tech Stack
 
@@ -33,7 +33,8 @@ I also use AI-powered development tools to accelerate implementation, explore so
 * Shopify
 * Elementor
 * Beaver Builder
-* ACF and Custom Post Types
+* Advanced Custom Fields (ACF)
+* Custom Post Types (CPT)
 * WordPress theme and plugin customization
 
 **Visual Development & Frontend**
@@ -43,7 +44,7 @@ I also use AI-powered development tools to accelerate implementation, explore so
 * GSAP
 * Responsive and interactive web experiences
 
-**AI-Assisted Development**
+**AI-Assisted Development Tools**
 
 * Claude and Claude Code
 * Cursor
@@ -51,9 +52,9 @@ I also use AI-powered development tools to accelerate implementation, explore so
 * Google Gemini
 * GitHub Copilot
 
-I use AI tools as part of my development workflow for planning, implementation, debugging, refactoring, understanding unfamiliar codebases, and accelerating development. The tools I use can vary by project.
+I use AI tools for planning, implementation, debugging, refactoring, understanding unfamiliar codebases, and accelerating development. My approach combines AI-assisted workflows with practical development and problem-solving.
 
-## What I'm Interested in Building
+## What I Build
 
 * Business websites and digital experiences
 * E-commerce platforms and custom store functionality
@@ -66,7 +67,7 @@ I use AI tools as part of my development workflow for planning, implementation, 
 
 * 🌐 **Portfolio:** [ameenulhaq.com](https://ameenulhaq.com/)
 * 💼 **LinkedIn:** [Ameen Ul Haq](https://www.linkedin.com/in/ameenulhaq-/)
-* 💻 **GitHub:** [ameen-ul-haq](https://github.com/ameen-ul-haq)
+* 💻 **GitHub:** [ameen-ulhaq](https://github.com/ameen-ulhaq)
 * 🤝 **Upwork:** [View my profile](https://www.upwork.com/freelancers/~017f537f9771ac24f0)
 
 ---
